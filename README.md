@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <h2>Hola 👋 Soy <a href="https://mvbri.github.io/">María Victoria Briceño</a></h2>
 <p>Soy Desarrollador Frontend y Técnico en informatica. Feliz de contribuir 👨‍💻 </p>
 
-<img src="https://mvbri.github.io/assets/hero-image-2.avif">
+<a href="https://mvbri.github.io/"><img src="https://mvbri.github.io/assets/hero-image-2.avif"></a>
