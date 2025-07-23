@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hola 👋 Soy <a target="_blank" href="https://mvbri.github.io/">María Victoria Briceño</a></h2>
+<h2>Hola 👋 Soy <a href="https://mvbri.github.io/">María Victoria Briceño</a></h2>
 <p>Soy Desarrollador Frontend y Técnico en informatica. Feliz de contribuir 👨‍💻 </p>
 
-<a target="_blank" href="https://mvbri.github.io/"><img src="https://mvbri.github.io/assets/hero-image-2.avif"></a>
+<a href="https://mvbri.github.io/"><img src="https://mvbri.github.io/assets/hero-image-2.avif"></a>
