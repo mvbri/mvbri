@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola Mundo 👋
 
 <!--
 **mvbri/mvbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Hey 👋, Soy <a href="https://mvbri.github.io/">María Victoria Briceño</a></h2>
+<p>Soy Desarrollador Frontend y Técnico en informatica. Feliz de contribuir 👨‍💻 </p>
